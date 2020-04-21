@@ -12,6 +12,7 @@ import com.niit.model.User;
 import com.niit.repository.UserRepository;
 import com.niit.service.UserService;
 
+//
 @Controller
 public class IndexController
 {
